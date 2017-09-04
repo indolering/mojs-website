@@ -26,7 +26,7 @@ module.exports = React.createClass
         data-default-tab="result"
         data-user="sol0mka"
         className='codepen'>
-          See the Pen <a href="http://codepen.io/sol0mka/pen/#{@props.pen}/">{@props.pen}</a> by LegoMushroom (<a href='http://codepen.io/sol0mka'>@sol0mka</a>) on <a href='http://codepen.io'>CodePen</a>.
+          See the Pen <a href="https://codepen.io/sol0mka/pen/#{@props.pen}/">{@props.pen}</a> by LegoMushroom (<a href='http://codepen.io/sol0mka'>@sol0mka</a>) on <a href='http://codepen.io'>CodePen</a>.
       </p>
 
     # { if !@state.isInit or @state.isHidden then null else <Pen pen={@props.pen} /> }

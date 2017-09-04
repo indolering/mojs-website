@@ -27877,7 +27877,7 @@
 	      "className": "code-block__body main-page__quick-start-normal"
 	    }, React.createElement(PrismCode, {
 	      "className": "language-markup"
-	    }, '<script src="http://cdn.jsdelivr.net/mojs/latest/mo.min.js"></script>')), React.createElement("div", {
+	    }, '<script src="https://cdn.jsdelivr.net/mojs/latest/mo.min.js"></script>')), React.createElement("div", {
 	      "className": "code-block__body main-page__quick-start-mobile"
 	    }, React.createElement(PrismCode, {
 	      "className": "language-markup"
